@@ -1,6 +1,6 @@
 WINNER
-drafts/a.md ranks first because it preserves the required structure and develops the day’s most consequential exchange event with a primary notice and currently accessible open-mirror corroboration.
+drafts/a.md wins because it leads with the day's most consequential event, the ACE bridge exploit, from Gate's primary notice and Bithumb's notice, keeps the skeleton verbatim, and breaks no rotation rule, though its headline, deck and METHOD wrongly present Gate's prospective rollback as completed on the strength of a sotwe timeline that returned HTTP 403 on 23 November 2026, a defect that cannot be edited out because edition.txt must copy a draft unchanged.
 
 RANKING
-2. drafts/b.md has useful on-chain evidence, but directly cites X, repeats an unverified Pump.fun repost across sections, and leaves its Hong Kong archive repetition undisclosed.
-3. drafts/c.md puts its lead headline on a separate line from LEAD: and relies on older commentary rather than the day’s developments.
+2. drafts/b.md has the best-evidenced lead (the Endurance explorer shows the bridge reserve at about 0.08 ACE), but it cites x.com directly against the open-mirror rule, rests a NEWS item and a CULTURE item on the same Pump.fun repost, whose ethos.network page now returns 404, and reuses two edition-008 outlets (chainflip.io, disclosed; info.gov.hk, undisclosed) where only one exception is allowed.
+3. drafts/c.md has clean rotation but the weakest news judgment: it leads with a corrective statutory instrument while missing the ACE exploit, fills NEWS with a ticker migration and a secondary-sourced maintenance window, runs CULTURE on May and August 2026 essays, and puts its lead headline on a separate line from LEAD:.
